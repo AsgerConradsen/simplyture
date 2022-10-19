@@ -5,8 +5,8 @@ Solution to Invoice REST & Processing - built in golang
 Should be pretty self explanatory from the code. 
 Tests coverage is not complete. Just a few examples.
 
-To run locally: go run .
-To run tests:  go test ./...
+To run locally: 'go run .'
+To run tests:  'go test ./...'
 I ran on go1.18.3 darwin/amd64
 
 Responses:
